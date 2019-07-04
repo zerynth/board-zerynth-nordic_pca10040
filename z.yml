@@ -1,0 +1,15 @@
+---
+description: Add support for Nordic nRF52 DK
+fullname: board.zerynth.nordic_pca10040
+info:
+    board: Nordic nRF52 DK
+    chip_manufacturer: Nordic
+    device: nrf52832
+    family_type: ARM Cortex M4
+keywords:
+- ble
+- nordic
+- nfc
+- nRF52
+title: Nordic nRF52 DK Support Package
+...
